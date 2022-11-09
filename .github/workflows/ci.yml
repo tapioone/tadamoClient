@@ -25,4 +25,4 @@ jobs:
     - name: Build
       run: dotnet build Tapio.Tadamo.Clients --configuration Release --no-restore
     - name: Pack
-      run: dotnet pack Tapio.Tadamo.Clients/Tapio.Tadamo.Clients.csproj --no-build --verbosity normal
+      run: dotnet pack Tapio.Tadamo.Clients/Tapio.Tadamo.Clients.csproj --configuration Release --no-build --verbosity normal
