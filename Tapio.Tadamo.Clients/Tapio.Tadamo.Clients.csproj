@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Copyright>Copyright © Tapio GmbH 2022</Copyright>
+    <Title>"Tapio.Tadamo.Clients"</Title>
+    <Authors>tapio GmbH</Authors>
+    <Company>tapio GmbH</Company>
+    <PackageLicenseUrl>https://tapio.one/</PackageLicenseUrl>
+    <PackageProjectUrl>https://tapio.one/</PackageProjectUrl>
+    <Description>Tapio tadamo api client</Description>
+    <Version>1.0.0</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
